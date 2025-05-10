@@ -2,9 +2,10 @@
 This is an integrated module for the final Project for Course : Software Engineering
 
 
-\n
 Project Mentor :  
--Ms. Pooja Gowda
+- Ms. Pooja Gowda
+
+
 Team Members :
 - Aarav Vashishtha
 - Sumit Kumar Jha
