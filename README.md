@@ -1,6 +1,10 @@
 # integrated-pet-haven
 This is an integrated module for the final Project for Course : Software Engineering
-Project Mentor :  Ms. Pooja Gowda
+
+
+\n
+Project Mentor :  
+-Ms. Pooja Gowda
 Team Members :
 - Aarav Vashishtha
 - Sumit Kumar Jha
